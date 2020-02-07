@@ -1,0 +1,26 @@
+[
+  {
+    "code": "110000",
+    "name": "北京市",
+    "province": "11",
+    "city": 0,
+    "area": 0,
+    "town": 0
+  },
+  {
+    "code": "110101",
+    "name": "东城区",
+    "province": "11",
+    "city": "01",
+    "area": "01",
+    "town": 0
+  },
+  {
+    "code": "110102",
+    "name": "西城区",
+    "province": "11",
+    "city": "01",
+    "area": "02",
+    "town": 0
+  }
+]
