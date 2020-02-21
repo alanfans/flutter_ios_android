@@ -36,6 +36,7 @@ class Myapp extends StatelessWidget {
         ),
       routes: <String, WidgetBuilder>{
         '/widget1': (BuildContext ctx) => CameraExampleHome(),
+        '/richWidget': (BuildContext ctx) => CameraExampleHome(),
       },
     );
   }
